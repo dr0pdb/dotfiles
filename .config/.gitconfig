@@ -1,0 +1,7 @@
+[user]
+	email = srv.twry@gmail.com
+	name = Saurav Tiwary
+[core]
+	editor = nano
+[init]
+	templatedir = /home/srv_twry/.git-templates

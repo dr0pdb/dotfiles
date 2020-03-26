@@ -1,0 +1,6 @@
+2020/03/23-19:45:59.327 94739 Reusing MANIFEST /home/srv_twry/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/03/23-19:45:59.327 94739 Recovering log #44
+2020/03/23-19:45:59.332 94739 Reusing old log /home/srv_twry/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000044.log 
+2020/03/23-19:46:01.277 94825 Level-0 table #49: started
+2020/03/23-19:46:01.412 94825 Level-0 table #49: 2200532 bytes OK
+2020/03/23-19:46:01.538 94825 Delete type=0 #44

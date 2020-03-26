@@ -1,0 +1,1770 @@
+{
+	"folder_history":
+	[
+		"/media/work/projects/CIS-194",
+		"/media/work/projects/cis-198",
+		"/media/work/projects/programming-languages/part-a",
+		"/media/work/projects/linkerd/gsoc",
+		"/media/work/projects/linkerd/prom-testing",
+		"/home/srv_twry/Downloads/prom-testing",
+		"/media/work/projects/LightGraphs.jl",
+		"/media/work/projects/linkerd/linkerd2",
+		"/media/work/projects/jenkins/example-repo",
+		"/media/work/projects/realtime-anomaly-detection-datacenters",
+		"/media/work/projects/BTP/Anomaly-Detection-K8S",
+		"/media/work/projects/BTP/Federated-Learning",
+		"/media/work/projects/BTP/Federated-Learning-Without-K8S",
+		"/media/work/courses/seventh-sem/ai/labs/Lab-10",
+		"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0",
+		"/home/srv_twry/Downloads/Charity-Blockchain",
+		"/media/work/projects/Charity-Blockchain",
+		"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master",
+		"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp",
+		"/home/srv_twry/Downloads/OrganDonation-Chain-master/OrganChain",
+		"/media/work/projects/Organ-Donation-Blockchain",
+		"/media/work/projects/BTP/distributed-tensorflow-on-k8s",
+		"/media/work/courses/seventh-sem/ai/labs/Lab-8",
+		"/media/work/projects/cs-notes",
+		"/media/work/projects/srv-twry.github.io",
+		"/media/work/projects/programming-languages",
+		"/media/work/courses/seventh-sem/ai/labs",
+		"/media/work/courses/seventh-sem/ai/labs/Lab-7",
+		"/media/work/courses/seventh-sem/ai/labs/Lab-7/all_sentiment_shuffled.txt",
+		"/media/work/cp/code",
+		"/media/work/projects/BTP/task-offloading",
+		"/media/work/courses/fourth/seventh/AI/Labs",
+		"/media/work/courses/fourth/seventh/AI/Labs/Lab-3",
+		"/media/work/courses/fourth/seventh/blockchain",
+		"/media/work/projects/Distributed-Systems-Papers",
+		"/home/srv_twry/golib/src/github.com/cockroachdb/cockroach",
+		"/media/work/projects/golang-projects/src/6.824",
+		"/media/work/projects/golang-projects/src/prometheus",
+		"/media/work/courses/fourth/seventh/AI/pre-mid/Labs",
+		"/media/work/interview-resources/EOPI",
+		"/media/work/courses/third/sixth-sem/CS359",
+		"/media/work/courses/third/sixth-sem/CS342",
+		"/media/work/courses/third/sixth-sem/CS359/Lab-5",
+		"/media/work/courses/Third-year/sixth-sem/CS342",
+		"/media/work/Courses-IITP/Third-year/sixth-sem/CS342",
+		"/media/work/CP/competitive-github",
+		"/media/work/Courses-IITP/Third-year/sixth-sem/CS359",
+		"/media/work/Projects/Chord-Distributed-Hash-Table",
+		"/media/work/Projects/srv-twry.github.io",
+		"/media/work/Courses-IITP/Third-year/sixth-sem/CS359/Lab-3",
+		"/media/work/Courses-IITP/Third-year/sixth-sem/CS392",
+		"/media/work/Courses-IITP/Third-year/sixth-sem/CS342/Lab-4",
+		"/media/work/Projects/Memory-Manager",
+		"/media/work/Projects/Hacking-The-Kernel",
+		"/media/work/Courses-IITP/Third-year/sixth-sem/CS342/Lab-3",
+		"/media/work/Courses-IITP/Third-year/sixth-sem/CS359/Lab-1",
+		"/media/work/Projects/External-Merge-Sort",
+		"/media/work/Projects/Quizzer",
+		"/media/work/Projects/Quiz-Portal",
+		"/media/work/Courses-IITP/Third-year/fifth-sem/CS382-Java",
+		"/media/work/Courses-IITP/Third-year/fifth-sem/CS382-Java/mod14"
+	],
+	"last_version": 3211,
+	"last_window_id": 29,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cont",
+						"control-plane-selector-value"
+					],
+					[
+						"contor",
+						"control-plane-selector"
+					],
+					[
+						"mono",
+						"monitoring-plane-selector-key"
+					],
+					[
+						"n",
+						"n_training_samples"
+					],
+					[
+						"if",
+						"if\tIf Condition"
+					],
+					[
+						"time",
+						"timestamp"
+					],
+					[
+						"tim",
+						"timestamp"
+					],
+					[
+						"cput",
+						"cpu_data"
+					],
+					[
+						"check",
+						"check_for_anomaly"
+					],
+					[
+						"data",
+						"dataset_table_name"
+					],
+					[
+						"Tabl",
+						"TableBatch"
+					],
+					[
+						"dataa",
+						"dataset_table_name"
+					],
+					[
+						"table",
+						"table_service"
+					],
+					[
+						"acc",
+						"account_key"
+					],
+					[
+						"sle",
+						"sleep_interval"
+					],
+					[
+						"max",
+						"max_size"
+					],
+					[
+						"cpu",
+						"cpu_usage"
+					],
+					[
+						"train",
+						"train_model"
+					],
+					[
+						"pre",
+						"pre-trained-model"
+					],
+					[
+						"MODE",
+						"MODEL_DEFINITION"
+					],
+					[
+						"sc",
+						"scores"
+					],
+					[
+						"MO",
+						"MODEL_DEFINITION"
+					],
+					[
+						"agg",
+						"aggr_accuraries"
+					],
+					[
+						"aggr",
+						"aggr_loss"
+					],
+					[
+						"eval",
+						"eval_client_updates"
+					],
+					[
+						"curr",
+						"current_round_client_updates"
+					],
+					[
+						"So",
+						"SocketIO"
+					],
+					[
+						"socketio",
+						"socketio"
+					],
+					[
+						"star",
+						"training_start_time"
+					],
+					[
+						"current",
+						"current_time"
+					],
+					[
+						"rou",
+						"round_number"
+					],
+					[
+						"a",
+						"amount"
+					],
+					[
+						"prime",
+						"primeFactors\tvector<lll> primeFactors(ll N)"
+					],
+					[
+						"tot",
+						"totsize\tll totsize"
+					],
+					[
+						"vset",
+						"vsetelements\tvector<int> [3] vsetelements"
+					],
+					[
+						"inc",
+						"incoming\tbool [7001][7001] incoming"
+					],
+					[
+						"udpate",
+						"update_y\tvoid update_y(int vx, int lx, int rx, int vy, int ly, int ry)"
+					],
+					[
+						"update",
+						"update_y\tvoid update_y(int vx, int lx, int rx, int vy, int ly, int ry)"
+					],
+					[
+						"sum",
+						"sum_x\tint sum_x(int vx, int lx, int rx, int qlx, int qrx, int qly, int qry)"
+					],
+					[
+						"buil",
+						"build_y\tvoid build_y(int vx, int lx, int rx, int vy, int ly, int ry)"
+					],
+					[
+						"cur",
+						"cur_h2\tlong long cur_h2"
+					],
+					[
+						"curh",
+						"cur_h2\tlong long cur_h2"
+					],
+					[
+						"p_p",
+						"p_pow2\tvector<long long> p_pow2"
+					],
+					[
+						"cuh",
+						"cur_h2\tll cur_h2"
+					],
+					[
+						"pp",
+						"p_pow2\tvector<long long> p_pow2"
+					],
+					[
+						"p_",
+						"p_pow2\tvector<long long> p_pow2"
+					],
+					[
+						"to",
+						"top\tconst_reference top() const"
+					],
+					[
+						"print",
+						"pthread_spinlock_t\tpthread_spinlock_t"
+					],
+					[
+						"sae",
+						"samecolumn"
+					],
+					[
+						"target",
+						"targetlit"
+					],
+					[
+						"tar",
+						"targetlit\tbool targetlit"
+					],
+					[
+						"chain",
+						"chain_head\tint [10010] chain_head"
+					],
+					[
+						"chian",
+						"chain_num\tint chain_num"
+					],
+					[
+						"quer",
+						"query_up\tint query_up()"
+					],
+					[
+						"posi",
+						"position_in_base\tint [100010] position_in_base"
+					],
+					[
+						"base",
+						"baseArray\tint [100010] baseArray"
+					],
+					[
+						"chai",
+						"chain_num\tint chain_num"
+					],
+					[
+						"inde",
+						"indexx\tvector<int> [10010] indexx"
+					],
+					[
+						"begi",
+						"begin\titerator begin() const"
+					],
+					[
+						"deub",
+						"debug_vi\tvoid debug_vi(vi a)"
+					],
+					[
+						"clear",
+						"clearup\tvoid clearup()"
+					],
+					[
+						"s",
+						"size\tsize_type size() const"
+					],
+					[
+						"mic",
+						"minc\tll minc"
+					],
+					[
+						"calc",
+						"calculate3"
+					],
+					[
+						"cal",
+						"calculate3"
+					],
+					[
+						"Bac",
+						"background-size\tproperty"
+					],
+					[
+						"contin",
+						"Continuous-Delivery-Pipeline-IOT-Edge"
+					],
+					[
+						"admi",
+						"admissibilty"
+					],
+					[
+						"sate",
+						"state"
+					],
+					[
+						"Sate",
+						"State"
+					],
+					[
+						"start",
+						"startState"
+					],
+					[
+						"mah",
+						"manhattanHeuristic"
+					],
+					[
+						"ti",
+						"tilesDisplacedHeuristic"
+					],
+					[
+						"r",
+						"root\tTrieNode * root"
+					],
+					[
+						"c",
+						"c\tchar c"
+					],
+					[
+						"Trie",
+						"TrieNode\tTrieNode"
+					],
+					[
+						"count",
+						"countodds\tll countodds(ll left, ll right)"
+					],
+					[
+						"get",
+						"getBalance"
+					],
+					[
+						"extr",
+						"extra_needed_start\tll extra_needed_start"
+					],
+					[
+						"q",
+						"query2\tint query2(int L, int R)"
+					],
+					[
+						"debug",
+						"debug_vi\tvoid debug_vi(vi a)"
+					],
+					[
+						"deb",
+						"deb\tdeb(x)"
+					],
+					[
+						"po",
+						"pop\tvoid pop()"
+					],
+					[
+						"minm",
+						"minm_idx\tint minm_idx"
+					],
+					[
+						"emp",
+						"empty\tbool empty() const"
+					],
+					[
+						"em",
+						"empty\tbool empty() const"
+					],
+					[
+						"beg",
+						"begin"
+					],
+					[
+						"h",
+						"heuristic"
+					],
+					[
+						"pu",
+						"puzzleState"
+					],
+					[
+						"heu",
+						"heuristics_states"
+					],
+					[
+						"states",
+						"statesVisited"
+					],
+					[
+						"Heu",
+						"HeuristicChoice"
+					],
+					[
+						"her",
+						"HeuristicChoice"
+					],
+					[
+						"stat",
+						"startState"
+					],
+					[
+						"repl",
+						"replaceTB"
+					],
+					[
+						"goal",
+						"goalState"
+					],
+					[
+						"prin",
+						"printFailure"
+					],
+					[
+						"state",
+						"stateExplored"
+					],
+					[
+						"final",
+						"finalPuzzleConfiguration"
+					],
+					[
+						"initi",
+						"initialPuzzleConfiguration"
+					],
+					[
+						"Dep",
+						"depth2\tlong long depth2"
+					],
+					[
+						"en",
+						"end\titerator end() const"
+					],
+					[
+						"kmp",
+						"kmpSearch\tvoid kmpSearch()"
+					],
+					[
+						"p",
+						"p_pow3\tvll p_pow3"
+					],
+					[
+						"debv",
+						"debug_vll\tvoid debug_vll(vll a)"
+					],
+					[
+						"has",
+						"hash1\tvll [2] hash1"
+					],
+					[
+						"com",
+						"computerppow\tvoid computerppow()"
+					],
+					[
+						"j",
+						"jnf32x\t_Float32x jnf32x(int, _Float32x)"
+					],
+					[
+						"upper",
+						"upper_bound\t_ForwardIterator upper_bound(_ForwardIterator __first, _ForwardIterator __last, const _Tp &__val)"
+					],
+					[
+						"su",
+						"sum\tint sum(int l, int r)"
+					],
+					[
+						"SEg",
+						"SegmentTree\tSegmentTree<class T, class V>(T *arr, int N)"
+					],
+					[
+						"inf",
+						"INF\tconst ll INF"
+					],
+					[
+						"top",
+						"topsort\tvi topsort"
+					],
+					[
+						"string",
+						"string_num"
+					],
+					[
+						"co",
+						"comp\tcompetitive"
+					],
+					[
+						"suff",
+						"suff_idx\tint suff_idx"
+					],
+					[
+						"code",
+						"codejam\tcodeJamStarter"
+					],
+					[
+						"fO",
+						"FOR"
+					],
+					[
+						"num_",
+						"num_pal\tint [1005][1005] num_pal"
+					],
+					[
+						"rese",
+						"resize\tvoid resize(size_type __new_size)"
+					],
+					[
+						"dele",
+						"deletables\tvi deletables"
+					],
+					[
+						"bits",
+						"bits_for_n\tlong long bits_for_n"
+					],
+					[
+						"bit",
+						"bits_for_n\tlong long bits_for_n"
+					],
+					[
+						"page",
+						"page_table_entry_bits\tlong long page_table_entry_bits"
+					],
+					[
+						"tlb",
+						"tlb_search_time\tint tlb_search_time"
+					],
+					[
+						"num",
+						"number_frames\tlong long number_frames"
+					],
+					[
+						"binomial",
+						"binomial_coefficient\tll binomial_coefficient(ll n, ll k)"
+					],
+					[
+						"prim",
+						"primeFactors\tvii primeFactors(ll N)"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Instla",
+						"Package Control: Install Package"
+					],
+					[
+						"List",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet:",
+						"Snippet: Lorem ipsum"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 150.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/media/work/projects/linkerd/gsoc/rfc/2020/scale-testing/srv-twry.md",
+				"/media/work/projects/linkerd/prom-testing/edge-20.3.2/azure-monitor.txt",
+				"/media/work/projects/linkerd/prom-testing/edge-20.3.2/latency.txt",
+				"/media/work/projects/linkerd/prom-testing/edge-20.3.2/outputs.txt",
+				"/media/work/projects/linkerd/prom-testing/cluster-creation.txt",
+				"/media/work/projects/linkerd/prom-testing/config/install-emojivoto.yaml",
+				"/media/work/projects/linkerd/prom-testing/script.sh",
+				"/home/srv_twry/Downloads/prom-testing/script.sh",
+				"/home/srv_twry/Downloads/prom-testing/cluster-creation.txt",
+				"/home/srv_twry/Downloads/prom-testing/config/install-emojivoto.yaml",
+				"/home/srv_twry/Downloads/prom-testing/config/kustomization.yaml",
+				"/media/work/projects/LightGraphs.jl/test/simplegraphs/generators/staticgraphs.jl",
+				"/media/work/projects/LightGraphs.jl/src/SimpleGraphs/generators/staticgraphs.jl",
+				"/media/work/projects/linkerd/linkerd2/charts/linkerd2/smi-metrics-config.yaml",
+				"/home/srv_twry/Downloads/emojivoto.yml",
+				"/media/work/projects/linkerd/gsoc/rfc/2020/srv-twry.md",
+				"/home/srv_twry/Downloads/metric.txt",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/model-trainer-base/app.py",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/dataset-network-training.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/dataset-memory-training.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/dataset-cpu-training.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/model-trainer-base/requirements.txt",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/NAB-master/data/realAWSCloudwatch/ec2_disk_write_bytes_1ef3de.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/NAB-master/data/realAWSCloudwatch/grok_asg_anomaly.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/NAB-master/data/realAWSCloudwatch/ec2_network_in_5abac7.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/NAB-master/data/realAWSCloudwatch/ec2_cpu_utilization_5f5533.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/demo-dataset-test.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/demo-dataset-training.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/model-trainer/trainer.py",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/metrics-collector/app.py",
+				"/home/srv_twry/Downloads/diagnostics_output.txt",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/README.md",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/model-trainer/app.py",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/metrics-collector/Dockerfile",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/metrics-collector/requirements.txt",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/.gitignore",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/NAB-master/data/realAWSCloudwatch/ec2_cpu_utilization_24ae8d.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/model-trainer/requirements.txt",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/model-trainer/Dockerfile",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/rolling-update/updater.go",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/go.mod",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/container-image-updater.yaml",
+				"/media/work/projects/BTP/Anomaly-Detection-K8S/app.py",
+				"/media/work/projects/BTP/Anomaly-Detection-K8S/fl_client.py",
+				"/media/work/projects/BTP/Federated-Learning/inference.py",
+				"/media/work/projects/BTP/Federated-Learning/app.py",
+				"/media/work/projects/BTP/Federated-Learning/fl_client.py",
+				"/media/work/projects/BTP/Federated-Learning/fl_client_2.py",
+				"/media/work/projects/BTP/Federated-Learning/requirements.txt",
+				"/media/work/projects/BTP/Federated-Learning/config.py",
+				"/media/work/projects/BTP/Federated-Learning/Procfile",
+				"/media/work/projects/BTP/Federated-Learning/web.config",
+				"/media/work/projects/BTP/Federated-Learning/run_waitress_server.py",
+				"/media/work/projects/BTP/Federated-Learning/.gitignore",
+				"/media/work/projects/BTP/Federated-Learning/fl_server.py",
+				"/media/work/projects/BTP/Federated-Learning/dockerfile-server",
+				"/media/work/projects/BTP/Federated-Learning/.dockerignore",
+				"/media/work/projects/BTP/Federated-Learning/datasource.py",
+				"/media/work/projects/BTP/Federated-Learning-Without-K8S/fl_client.py",
+				"/media/work/projects/BTP/Federated-Learning-Without-K8S/fl_server.py",
+				"/media/work/projects/BTP/Federated-Learning/kube/hpa.yaml",
+				"/media/work/projects/BTP/Federated-Learning/kube/tensorboard.yaml",
+				"/media/work/projects/BTP/Federated-Learning/kube/job.yaml",
+				"/media/work/projects/BTP/Federated-Learning/GTSRB/Final_Training/Images/00000/GT-00000.csv",
+				"/media/work/projects/BTP/Federated-Learning/GTSRB/Readme-Images.txt",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/kube/job.yaml",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/kube/serving.yaml",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/src/index.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/contracts/Charity.sol",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/src/components/charities/DonateToCharity.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/src/contracts/Charity.json",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/README.md",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/truffle-config.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/public/index.html",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/migrations/2_deploy_contracts.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/src/components/company/Company.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/src/components/home/Home.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/src/components/charities/Charities.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/src/components/footer/Footer.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/mnemonic.txt",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/app/index.html",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/app/scripts/index.js",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/truffle-config.js",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/contracts/MetaCoin.sol",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/test/metacoin.js",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/test/TestMetacoin.sol",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/contracts/Migrations.sol",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/contracts/ConvertLib.sol",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/truffle.js",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp/app/index.html",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp/app/scripts/index.js",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp/contracts/Migrations.sol",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp/contracts/MetaCoin.sol",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp/contracts/ConvertLib.sol",
+				"/media/work/projects/Organ-Donation-Blockchain/DOCKERFILE",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/src/Dockerfile",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/kube/tfjob.yaml",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/src/main.py",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/kube/pvc-minikube.yaml",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/kube/nfs-minikube.yaml",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/src/client.py",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/bootstrapper.yaml",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/templated/tfjob-templated.yaml",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/templated/run.sh",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/src/requirements.txt",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/workspace/create.sh",
+				"/home/srv_twry/Downloads/diagnostics-output.txt",
+				"/media/work/courses/seventh-sem/ai/labs/Lab-8/dTree.py",
+				"/home/srv_twry/Downloads/q1.ipynb",
+				"/media/work/projects/cs-notes/maths/2019-10-29-number-theory-and-cryptography-part-one.markdown",
+				"/media/work/projects/cs-notes/README.md",
+				"/media/work/projects/srv-twry.github.io/_posts/2019-10-29-number-theory-and-cryptography-part-one.markdown",
+				"/media/work/projects/srv-twry.github.io/_includes/head.html",
+				"/media/work/projects/srv-twry.github.io/_config.yml",
+				"/media/work/projects/programming-languages/part-a/hw0/hw0.sml",
+				"/media/work/projects/programming-languages/README.md",
+				"/media/work/courses/seventh-sem/ai/labs/Lab-7/assign7.py",
+				"/media/work/projects/cis-198/hw00/Cargo.toml",
+				"/media/work/projects/cis-198/hw00/src/main.rs",
+				"/media/work/projects/cis-198/README.md",
+				"/media/work/projects/cis-198/hw00/hello-world.rs",
+				"/media/work/projects/cis-198/.gitignore",
+				"/home/srv_twry/golib/pkg/mod/github.com/srv-twry/f1-cli@v0.0.0-20191005091144-8b13fc74048d/cmd/schedule.go",
+				"/home/srv_twry/golib/pkg/mod/github.com/srv-twry/f1-cli@v0.0.0-20191005091814-e9bc2ece4adf/cmd/schedule.go",
+				"/media/work/courses/seventh-sem/ai/labs/Lab-7/all_sentiment_shuffled.txt/all_sentiment_shuffled.txt",
+				"/media/work/cp/code/atcoder/abc142_f.cpp",
+				"/media/work/cp/code/atcoder/abc142_e.cpp",
+				"/media/work/cp/code/atcoder/abc142_d.cpp"
+			],
+			"find":
+			{
+				"height": 21.0
+			},
+			"find_in_files":
+			{
+				"height": 101.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"selector",
+					"selectors"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 18.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 73.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 256.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cont",
+						"control-plane-selector-value"
+					],
+					[
+						"contor",
+						"control-plane-selector"
+					],
+					[
+						"mono",
+						"monitoring-plane-selector-key"
+					],
+					[
+						"n",
+						"n_training_samples"
+					],
+					[
+						"if",
+						"if\tIf Condition"
+					],
+					[
+						"time",
+						"timestamp"
+					],
+					[
+						"tim",
+						"timestamp"
+					],
+					[
+						"cput",
+						"cpu_data"
+					],
+					[
+						"check",
+						"check_for_anomaly"
+					],
+					[
+						"data",
+						"dataset_table_name"
+					],
+					[
+						"Tabl",
+						"TableBatch"
+					],
+					[
+						"dataa",
+						"dataset_table_name"
+					],
+					[
+						"table",
+						"table_service"
+					],
+					[
+						"acc",
+						"account_key"
+					],
+					[
+						"sle",
+						"sleep_interval"
+					],
+					[
+						"max",
+						"max_size"
+					],
+					[
+						"cpu",
+						"cpu_usage"
+					],
+					[
+						"train",
+						"train_model"
+					],
+					[
+						"pre",
+						"pre-trained-model"
+					],
+					[
+						"MODE",
+						"MODEL_DEFINITION"
+					],
+					[
+						"sc",
+						"scores"
+					],
+					[
+						"MO",
+						"MODEL_DEFINITION"
+					],
+					[
+						"agg",
+						"aggr_accuraries"
+					],
+					[
+						"aggr",
+						"aggr_loss"
+					],
+					[
+						"eval",
+						"eval_client_updates"
+					],
+					[
+						"curr",
+						"current_round_client_updates"
+					],
+					[
+						"So",
+						"SocketIO"
+					],
+					[
+						"socketio",
+						"socketio"
+					],
+					[
+						"star",
+						"training_start_time"
+					],
+					[
+						"current",
+						"current_time"
+					],
+					[
+						"rou",
+						"round_number"
+					],
+					[
+						"a",
+						"amount"
+					],
+					[
+						"prime",
+						"primeFactors\tvector<lll> primeFactors(ll N)"
+					],
+					[
+						"tot",
+						"totsize\tll totsize"
+					],
+					[
+						"vset",
+						"vsetelements\tvector<int> [3] vsetelements"
+					],
+					[
+						"inc",
+						"incoming\tbool [7001][7001] incoming"
+					],
+					[
+						"udpate",
+						"update_y\tvoid update_y(int vx, int lx, int rx, int vy, int ly, int ry)"
+					],
+					[
+						"update",
+						"update_y\tvoid update_y(int vx, int lx, int rx, int vy, int ly, int ry)"
+					],
+					[
+						"sum",
+						"sum_x\tint sum_x(int vx, int lx, int rx, int qlx, int qrx, int qly, int qry)"
+					],
+					[
+						"buil",
+						"build_y\tvoid build_y(int vx, int lx, int rx, int vy, int ly, int ry)"
+					],
+					[
+						"cur",
+						"cur_h2\tlong long cur_h2"
+					],
+					[
+						"curh",
+						"cur_h2\tlong long cur_h2"
+					],
+					[
+						"p_p",
+						"p_pow2\tvector<long long> p_pow2"
+					],
+					[
+						"cuh",
+						"cur_h2\tll cur_h2"
+					],
+					[
+						"pp",
+						"p_pow2\tvector<long long> p_pow2"
+					],
+					[
+						"p_",
+						"p_pow2\tvector<long long> p_pow2"
+					],
+					[
+						"to",
+						"top\tconst_reference top() const"
+					],
+					[
+						"print",
+						"pthread_spinlock_t\tpthread_spinlock_t"
+					],
+					[
+						"sae",
+						"samecolumn"
+					],
+					[
+						"target",
+						"targetlit"
+					],
+					[
+						"tar",
+						"targetlit\tbool targetlit"
+					],
+					[
+						"chain",
+						"chain_head\tint [10010] chain_head"
+					],
+					[
+						"chian",
+						"chain_num\tint chain_num"
+					],
+					[
+						"quer",
+						"query_up\tint query_up()"
+					],
+					[
+						"posi",
+						"position_in_base\tint [100010] position_in_base"
+					],
+					[
+						"base",
+						"baseArray\tint [100010] baseArray"
+					],
+					[
+						"chai",
+						"chain_num\tint chain_num"
+					],
+					[
+						"inde",
+						"indexx\tvector<int> [10010] indexx"
+					],
+					[
+						"begi",
+						"begin\titerator begin() const"
+					],
+					[
+						"deub",
+						"debug_vi\tvoid debug_vi(vi a)"
+					],
+					[
+						"clear",
+						"clearup\tvoid clearup()"
+					],
+					[
+						"s",
+						"size\tsize_type size() const"
+					],
+					[
+						"mic",
+						"minc\tll minc"
+					],
+					[
+						"calc",
+						"calculate3"
+					],
+					[
+						"cal",
+						"calculate3"
+					],
+					[
+						"Bac",
+						"background-size\tproperty"
+					],
+					[
+						"contin",
+						"Continuous-Delivery-Pipeline-IOT-Edge"
+					],
+					[
+						"admi",
+						"admissibilty"
+					],
+					[
+						"sate",
+						"state"
+					],
+					[
+						"Sate",
+						"State"
+					],
+					[
+						"start",
+						"startState"
+					],
+					[
+						"mah",
+						"manhattanHeuristic"
+					],
+					[
+						"ti",
+						"tilesDisplacedHeuristic"
+					],
+					[
+						"r",
+						"root\tTrieNode * root"
+					],
+					[
+						"c",
+						"c\tchar c"
+					],
+					[
+						"Trie",
+						"TrieNode\tTrieNode"
+					],
+					[
+						"count",
+						"countodds\tll countodds(ll left, ll right)"
+					],
+					[
+						"get",
+						"getBalance"
+					],
+					[
+						"extr",
+						"extra_needed_start\tll extra_needed_start"
+					],
+					[
+						"q",
+						"query2\tint query2(int L, int R)"
+					],
+					[
+						"debug",
+						"debug_vi\tvoid debug_vi(vi a)"
+					],
+					[
+						"deb",
+						"deb\tdeb(x)"
+					],
+					[
+						"po",
+						"pop\tvoid pop()"
+					],
+					[
+						"minm",
+						"minm_idx\tint minm_idx"
+					],
+					[
+						"emp",
+						"empty\tbool empty() const"
+					],
+					[
+						"em",
+						"empty\tbool empty() const"
+					],
+					[
+						"beg",
+						"begin"
+					],
+					[
+						"h",
+						"heuristic"
+					],
+					[
+						"pu",
+						"puzzleState"
+					],
+					[
+						"heu",
+						"heuristics_states"
+					],
+					[
+						"states",
+						"statesVisited"
+					],
+					[
+						"Heu",
+						"HeuristicChoice"
+					],
+					[
+						"her",
+						"HeuristicChoice"
+					],
+					[
+						"stat",
+						"startState"
+					],
+					[
+						"repl",
+						"replaceTB"
+					],
+					[
+						"goal",
+						"goalState"
+					],
+					[
+						"prin",
+						"printFailure"
+					],
+					[
+						"state",
+						"stateExplored"
+					],
+					[
+						"final",
+						"finalPuzzleConfiguration"
+					],
+					[
+						"initi",
+						"initialPuzzleConfiguration"
+					],
+					[
+						"Dep",
+						"depth2\tlong long depth2"
+					],
+					[
+						"en",
+						"end\titerator end() const"
+					],
+					[
+						"kmp",
+						"kmpSearch\tvoid kmpSearch()"
+					],
+					[
+						"p",
+						"p_pow3\tvll p_pow3"
+					],
+					[
+						"debv",
+						"debug_vll\tvoid debug_vll(vll a)"
+					],
+					[
+						"has",
+						"hash1\tvll [2] hash1"
+					],
+					[
+						"com",
+						"computerppow\tvoid computerppow()"
+					],
+					[
+						"j",
+						"jnf32x\t_Float32x jnf32x(int, _Float32x)"
+					],
+					[
+						"upper",
+						"upper_bound\t_ForwardIterator upper_bound(_ForwardIterator __first, _ForwardIterator __last, const _Tp &__val)"
+					],
+					[
+						"su",
+						"sum\tint sum(int l, int r)"
+					],
+					[
+						"SEg",
+						"SegmentTree\tSegmentTree<class T, class V>(T *arr, int N)"
+					],
+					[
+						"inf",
+						"INF\tconst ll INF"
+					],
+					[
+						"top",
+						"topsort\tvi topsort"
+					],
+					[
+						"string",
+						"string_num"
+					],
+					[
+						"co",
+						"comp\tcompetitive"
+					],
+					[
+						"suff",
+						"suff_idx\tint suff_idx"
+					],
+					[
+						"code",
+						"codejam\tcodeJamStarter"
+					],
+					[
+						"fO",
+						"FOR"
+					],
+					[
+						"num_",
+						"num_pal\tint [1005][1005] num_pal"
+					],
+					[
+						"rese",
+						"resize\tvoid resize(size_type __new_size)"
+					],
+					[
+						"dele",
+						"deletables\tvi deletables"
+					],
+					[
+						"bits",
+						"bits_for_n\tlong long bits_for_n"
+					],
+					[
+						"bit",
+						"bits_for_n\tlong long bits_for_n"
+					],
+					[
+						"page",
+						"page_table_entry_bits\tlong long page_table_entry_bits"
+					],
+					[
+						"tlb",
+						"tlb_search_time\tint tlb_search_time"
+					],
+					[
+						"num",
+						"number_frames\tlong long number_frames"
+					],
+					[
+						"binomial",
+						"binomial_coefficient\tll binomial_coefficient(ll n, ll k)"
+					],
+					[
+						"prim",
+						"primeFactors\tvii primeFactors(ll N)"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"INSTLAL",
+						"Package Control: Install Package"
+					],
+					[
+						"instlal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Instla",
+						"Package Control: Install Package"
+					],
+					[
+						"List",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet:",
+						"Snippet: Lorem ipsum"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 150.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/srv_twry/Downloads/atcoder/max_02-out",
+				"/home/srv_twry/Downloads/atcoder/max_02",
+				"/home/srv_twry/.vimrc",
+				"/media/work/tutorials-books/Haskell/Attempt 2.txt",
+				"/home/srv_twry/.stack/global-project/stack.yaml",
+				"/media/work/projects/CIS-194/hw1.hs",
+				"/media/work/projects/CIS-194/README.md",
+				"/home/srv_twry/.config/sublime-text-3/Packages/User/SML/Main.sublime-menu",
+				"/home/srv_twry/.config/sublime-text-3/Packages/User/SML/Default.sublime-commands",
+				"/media/work/projects/programming-languages/part-a/hw0/hw0.sml",
+				"/media/work/projects/linkerd/gsoc/rfc/2020/scale-testing/srv-twry.md",
+				"/media/work/projects/linkerd/prom-testing/edge-20.3.2/azure-monitor.txt",
+				"/media/work/projects/linkerd/prom-testing/edge-20.3.2/latency.txt",
+				"/media/work/projects/linkerd/prom-testing/edge-20.3.2/outputs.txt",
+				"/media/work/projects/linkerd/prom-testing/cluster-creation.txt",
+				"/media/work/projects/linkerd/prom-testing/config/install-emojivoto.yaml",
+				"/media/work/projects/linkerd/prom-testing/script.sh",
+				"/home/srv_twry/Downloads/prom-testing/script.sh",
+				"/home/srv_twry/Downloads/prom-testing/cluster-creation.txt",
+				"/home/srv_twry/Downloads/prom-testing/config/install-emojivoto.yaml",
+				"/home/srv_twry/Downloads/prom-testing/config/kustomization.yaml",
+				"/media/work/projects/LightGraphs.jl/test/simplegraphs/generators/staticgraphs.jl",
+				"/media/work/projects/LightGraphs.jl/src/SimpleGraphs/generators/staticgraphs.jl",
+				"/media/work/projects/linkerd/linkerd2/charts/linkerd2/smi-metrics-config.yaml",
+				"/home/srv_twry/Downloads/emojivoto.yml",
+				"/media/work/projects/linkerd/gsoc/rfc/2020/srv-twry.md",
+				"/home/srv_twry/Downloads/metric.txt",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/model-trainer-base/app.py",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/dataset-network-training.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/dataset-memory-training.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/dataset-cpu-training.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/model-trainer-base/requirements.txt",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/NAB-master/data/realAWSCloudwatch/ec2_disk_write_bytes_1ef3de.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/NAB-master/data/realAWSCloudwatch/grok_asg_anomaly.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/NAB-master/data/realAWSCloudwatch/ec2_network_in_5abac7.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/NAB-master/data/realAWSCloudwatch/ec2_cpu_utilization_5f5533.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/demo-dataset-test.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/demo-dataset-training.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/model-trainer/trainer.py",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/metrics-collector/app.py",
+				"/home/srv_twry/Downloads/diagnostics_output.txt",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/README.md",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/model-trainer/app.py",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/metrics-collector/Dockerfile",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/metrics-collector/requirements.txt",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/.gitignore",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/datasets/NAB-master/data/realAWSCloudwatch/ec2_cpu_utilization_24ae8d.csv",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/model-trainer/requirements.txt",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/model-trainer/Dockerfile",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/rolling-update/updater.go",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/go.mod",
+				"/media/work/projects/realtime-anomaly-detection-datacenters/container-image-updater.yaml",
+				"/media/work/projects/BTP/Anomaly-Detection-K8S/app.py",
+				"/media/work/projects/BTP/Anomaly-Detection-K8S/fl_client.py",
+				"/media/work/projects/BTP/Federated-Learning/inference.py",
+				"/media/work/projects/BTP/Federated-Learning/app.py",
+				"/media/work/projects/BTP/Federated-Learning/fl_client.py",
+				"/media/work/projects/BTP/Federated-Learning/fl_client_2.py",
+				"/media/work/projects/BTP/Federated-Learning/requirements.txt",
+				"/media/work/projects/BTP/Federated-Learning/config.py",
+				"/media/work/projects/BTP/Federated-Learning/Procfile",
+				"/media/work/projects/BTP/Federated-Learning/web.config",
+				"/media/work/projects/BTP/Federated-Learning/run_waitress_server.py",
+				"/media/work/projects/BTP/Federated-Learning/.gitignore",
+				"/media/work/projects/BTP/Federated-Learning/fl_server.py",
+				"/media/work/projects/BTP/Federated-Learning/dockerfile-server",
+				"/media/work/projects/BTP/Federated-Learning/.dockerignore",
+				"/media/work/projects/BTP/Federated-Learning/datasource.py",
+				"/media/work/projects/BTP/Federated-Learning-Without-K8S/fl_client.py",
+				"/media/work/projects/BTP/Federated-Learning-Without-K8S/fl_server.py",
+				"/media/work/projects/BTP/Federated-Learning/kube/hpa.yaml",
+				"/media/work/projects/BTP/Federated-Learning/kube/tensorboard.yaml",
+				"/media/work/projects/BTP/Federated-Learning/kube/job.yaml",
+				"/media/work/projects/BTP/Federated-Learning/GTSRB/Final_Training/Images/00000/GT-00000.csv",
+				"/media/work/projects/BTP/Federated-Learning/GTSRB/Readme-Images.txt",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/kube/job.yaml",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/kube/serving.yaml",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/src/index.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/contracts/Charity.sol",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/src/components/charities/DonateToCharity.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/src/contracts/Charity.json",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/README.md",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/truffle-config.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/public/index.html",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/migrations/2_deploy_contracts.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/src/components/company/Company.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/src/components/home/Home.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/src/components/charities/Charities.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/client/src/components/footer/Footer.js",
+				"/home/srv_twry/Downloads/Charity-Blockchain-1.0.0/mnemonic.txt",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/app/index.html",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/app/scripts/index.js",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/truffle-config.js",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/contracts/MetaCoin.sol",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/test/metacoin.js",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/test/TestMetacoin.sol",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/contracts/Migrations.sol",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/contracts/ConvertLib.sol",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp-master/truffle.js",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp/app/index.html",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp/app/scripts/index.js",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp/contracts/Migrations.sol",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp/contracts/MetaCoin.sol",
+				"/home/srv_twry/Downloads/Ethereum-Charity-Donation-DApp/contracts/ConvertLib.sol",
+				"/media/work/projects/Organ-Donation-Blockchain/DOCKERFILE",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/src/Dockerfile",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/kube/tfjob.yaml",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/src/main.py",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/kube/pvc-minikube.yaml",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/kube/nfs-minikube.yaml",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/src/client.py",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/bootstrapper.yaml",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/templated/tfjob-templated.yaml",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/templated/run.sh",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/src/requirements.txt",
+				"/media/work/projects/BTP/distributed-tensorflow-on-k8s/workspace/create.sh",
+				"/home/srv_twry/Downloads/diagnostics-output.txt",
+				"/media/work/courses/seventh-sem/ai/labs/Lab-8/dTree.py",
+				"/home/srv_twry/Downloads/q1.ipynb",
+				"/media/work/projects/cs-notes/maths/2019-10-29-number-theory-and-cryptography-part-one.markdown",
+				"/media/work/projects/cs-notes/README.md",
+				"/media/work/projects/srv-twry.github.io/_posts/2019-10-29-number-theory-and-cryptography-part-one.markdown",
+				"/media/work/projects/srv-twry.github.io/_includes/head.html",
+				"/media/work/projects/srv-twry.github.io/_config.yml",
+				"/media/work/projects/programming-languages/README.md",
+				"/media/work/courses/seventh-sem/ai/labs/Lab-7/assign7.py",
+				"/media/work/projects/cis-198/hw00/Cargo.toml",
+				"/media/work/projects/cis-198/hw00/src/main.rs"
+			],
+			"find":
+			{
+				"height": 21.0
+			},
+			"find_in_files":
+			{
+				"height": 101.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"selector",
+					"selectors"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 18.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 73.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.sublime_haskell_output_panel":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,480,11,959,538,960,540",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 256.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 28,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

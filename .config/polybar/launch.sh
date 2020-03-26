@@ -8,4 +8,4 @@ while pgrep -x polybar >/dev/null; do sleep 1; done
 
 # Launch bar1 and bar2
 polybar lamia 2>&1 &
-echo "Bars launched..."
+# polybar main -c /home/srv_twry/.config/polybar/config2 &

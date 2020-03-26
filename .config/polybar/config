@@ -34,7 +34,7 @@ font-1 = FontAwesome5Free:style=Solid:pixelsize=11
 font-2 = DejaVuSans:style=Book:pixelsize=10
 ; font-2 = NotoEmoji-Regular:pixelsize=7
 
-modules-left = i3 network
+modules-left = i3 wired wireless
 modules-center = date
 modules-right = battery volume
 
@@ -111,16 +111,16 @@ format-prefix = " "
 format-prefix-foreground = ${colors.highlight}
 label = %gb_free%
 
-; [module/wlan]
-; type = internal/network
-; interface = wlp3s0
-; interval = 1.0
-; format-connected = <ramp-signal> <label-connected>
-; label-connected = %{F#15151e}%local_ip% %{F#f1e9ef}%downspeed:9% %upspeed:9%
+[module/wirless]
+type = internal/network
+interface = wlp3s0
+interval = 1.0
+format-connected = <ramp-signal> <label-connected>
+label-connected = %{F#15151e}%local_ip% %{F#f1e9ef}%downspeed:9% %upspeed:9%
 
-; format-disconnected = <label-disconnected>
-; label-disconnected = %ifname% disconnected
-; label-disconnected-foreground = ${colors.highlight}
+format-disconnected = <label-disconnected>
+label-disconnected = %ifname% disconnected
+label-disconnected-foreground = ${colors.highlight}
 
 ; ramp-signal-0 = 😱
 ; ramp-signal-1 = 😠
@@ -130,11 +130,11 @@ label = %gb_free%
 ; ramp-signal-5 = 😈
 ; ramp-signal-foreground = ${colors.highlight}
 
-[module/network]
+[module/wired]
 type = internal/network
 interface = enp2s0
 interval = 1.0
-label-connected = %{F#15151e}%local_ip% %{F#f1e9ef}%downspeed:9% %upspeed:9%
+label-connected = %{F#f1e9ef}%local_ip% %{F#f1e9ef}%downspeed:9% %upspeed:9%
 
 [module/date]
 type = internal/date
@@ -202,18 +202,18 @@ adapter = AC
 full-at = 100
 
 format-charging = <label-charging>
-format-charging-foreground = ${xrdb:color4}
-format-charging-background = ${xrdb:color0}
+format-charging-foreground = ${colors.foreground}
+format-charging-background = ${colors.background}
 format-discharging = <label-discharging>
-format-discharging-foreground = ${xrdb:color1}
-format-discharging-background = ${xrdb:color0}
+format-discharging-foreground = ${colors.foreground}
+format-discharging-background = ${colors.background}
 format-full = <label-full>
-format-full-foreground = ${xrdb:color4}
-format-full-background = ${xrdb:color0}
+format-full-foreground = ${colors.foreground}
+format-full-background = ${colors.background}
 
 label-charging = "CHR %percentage%%"
 label-discharging = "BAT %percentage%%"
-;label-discharging-foreground = ${xrdb:color1}
+label-discharging-foreground = ${colors.foreground}
 label-full = "BAT %percentage%%"
 
 ; vim:ft=dosini
