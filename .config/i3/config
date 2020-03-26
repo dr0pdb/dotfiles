@@ -135,6 +135,7 @@ bindsym $mod+r mode "resize"
 bar {
         status_command i3status
         mode invisible
+	tray_output primary
 }
 
 new_window pixel 2
@@ -177,3 +178,9 @@ bindsym XF86AudioPlay exec playerctl play
 bindsym XF86AudioPause exec playerctl pause
 bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
+
+# Network Manager Applet
+exec_always nm-applet
+
+# Screen Shots
+bindsym Print exec scrot '%Y-%m-%d-%s_screenshot_$wx$h.jpg' -e 'mv $f ~/Pictures/'
